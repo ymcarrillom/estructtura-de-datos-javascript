@@ -1,0 +1,21 @@
+{
+  "name": "estructtura-de-datos-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arrays.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymcarrillom/estructtura-de-datos-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ymcarrillom/estructtura-de-datos-javascript/issues"
+  },
+  "homepage": "https://github.com/ymcarrillom/estructtura-de-datos-javascript#readme"
+}
